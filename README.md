@@ -13,4 +13,4 @@ Sample website with plenty of files for demos
 Please fork this repository and then issue Pull Requests for review
 
 ### Copyright
-2018 GG.Training
+2018 GG.Training. All rights reserved
